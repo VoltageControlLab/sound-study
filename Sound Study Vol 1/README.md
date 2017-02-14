@@ -8,12 +8,12 @@ Five students and myself took part in this first volume. You will find 6 folders
 
 Radio Music Folder Orientation
 
-# 0 - Bendu
-# 1 - D. Squintz
-# 2 - At Dusk 
-# 3 - SpaceProdigi
-# 4 - DiPrima
-# 5 - Computo
+0 - Bendu<br>
+1 - D. Squintz<br>
+2 - At Dusk <br>
+3 - SpaceProdigi<br>
+4 - DiPrima<br>
+5 - Computo<br>
 
 Notes on the packages and artists:
 
