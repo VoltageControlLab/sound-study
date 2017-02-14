@@ -17,26 +17,21 @@ Radio Music Folder Orientation
 
 Notes on the packages and artists:
 
--Bendu
-
-www.bendu.org
-
+-Bendu<br>
+www.bendu.org<br>
 "These samples are mined from Live ‘Samples/Recorded’ folders of years gone by and are raw modular recordings. Sometimes the modular was synced to Live’s clock but not always. The exception is the recent recordings of the Delptronibs Thunderbell that were made specifically for this project."
 
 -D. Squintz
 
--AT DUSK (Alex Annese)
-
+-AT DUSK (Alex Annese)<br>
 "Recorded a bunch of knob twiddling in the modular then ran it through a Simpler with the Push and a ton of wacky effects"
 
--SpaceProdigi
-
-www.instagram.com/spaceprodigi
-
-www.twitter.com/spaceprodigi
-
+-SpaceProdigi<br>
+www.instagram.com/spaceprodigi<br>
+www.twitter.com/spaceprodigi<br>
 "I used a mixture of one shots from my modular and recordings from my field recorder. I recorded the samples straight into Ableton and then sent each channel through my analog Neve Shelford channel strips to give some shine."
 
--DiPrima
-
+-DiPrima <br>
 "OSC MN DPO, SEQ Intellijel Metropolis"
+
+-Computo<br>
