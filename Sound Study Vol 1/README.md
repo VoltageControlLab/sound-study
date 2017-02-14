@@ -17,7 +17,11 @@ Radio Music Folder Orientation
 
 Notes on the packages and artists:
 
--Bendu 
+-Bendu
+
+www.bendu.org
+
+These samples are mined from Live ‘Samples/Recorded’ folders of years gone by and are raw modular recordings. Sometimes the modular was synced to Live’s clock but not always. The exception is the recent recordings of the Delptronibs Thunderbell that were made specifically for this project.
 
 -D. Squintz
 
