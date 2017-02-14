@@ -21,7 +21,7 @@ Notes on the packages and artists:
 
 -AT DUSK - Alex Annese
 
-recorded a bunch of knob twiddling in the modular then ran it through a simpler with the push and a ton of wacky effects
+"Recorded a bunch of knob twiddling in the modular then ran it through a Simpler with the Push and a ton of wacky effects"
 
 -SpaceProdigi
 
@@ -29,8 +29,8 @@ www.instagram.com/spaceprodigi
 
 www.twitter.com/spaceprodigi
 
-I used a mixture of one shots from my modular and recordings from my field recorder. I recorded the samples straight into Ableton and then sent each channel through my analog Neve Shelford channel strips to give some shine.
+"I used a mixture of one shots from my modular and recordings from my field recorder. I recorded the samples straight into Ableton and then sent each channel through my analog Neve Shelford channel strips to give some shine."
 
 -DiPrima
 
-Making use of MN DPO, SEQ Intellijel Metropolis
+"OSC MN DPO, SEQ Intellijel Metropolis"
