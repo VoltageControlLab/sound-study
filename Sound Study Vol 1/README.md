@@ -17,9 +17,11 @@ Radio Music Folder Orientation
 
 Notes on the packages and artists:
 
+-Bendu 
 
+-D. Squintz
 
--AT DUSK - Alex Annese
+-AT DUSK (Alex Annese)
 
 "Recorded a bunch of knob twiddling in the modular then ran it through a Simpler with the Push and a ton of wacky effects"
 
