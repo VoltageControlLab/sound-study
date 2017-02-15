@@ -1,7 +1,8 @@
 # Sound Study Volume 1
+<img src="http://www.voltagecontrollab.com/wp-content/uploads/2017/02/soundstudylogoblack.png" height="200" align="right">
 This is the first volume in our open source sample library series, Sound Study.
 We have work from a number of our students in this initial installment. There are some really fantastic samples in here.
-<img src="http://www.voltagecontrollab.com/wp-content/uploads/2017/02/soundstudylogoblack.png" height="200">
+
 This series was inspired by the Music Thing Radio Music by Tom Whitwell, so our first installment is formatted in both Radio Music-friendly format as well as high quality Wav format. The samples are arranged into separate folders for both formats.
 
 Five students and myself took part in this first volume. You will find 6 folders in the Radio Music folder. They organized by artist. 
